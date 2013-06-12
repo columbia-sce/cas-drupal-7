@@ -28,4 +28,6 @@ You MUST register your URL as a service with CUIT Identity and Access Management
 
 11. Configure the "Require CAS Login for" section for the pages you wish to secure with UNI authentication.
 
-12. All of the other settings are optional.
+12. All of the other settings for the CAS module are optional.
+
+13. If you are not automatically creating accounts, you MUST add the UNI to each individual user's profile page for them to successfully authenticate.
